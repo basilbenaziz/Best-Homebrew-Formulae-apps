@@ -15,19 +15,23 @@ Best Homebrew Formulae
 
 
 
-_“To install, drag this icon…” no more!_
+_“What is Homebrew ?!"_
 
-Homebrew Cask extends [Homebrew](https://brew.sh) and brings its elegance, simplicity, and speed to the installation and management of GUI macOS applications such as Atom and Google Chrome.
+Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's operating system, macOS, as well as Linux. which makes installing lots of different software like Git, Ruby, and Node simpler. 
+[Homebrew](https://brew.sh) 
 
-We do this by providing a friendly CLI workflow for the administration of macOS applications distributed as binaries.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+
+
+
 # Install Homebrew!
 
-
 To start using Homebrew Formulae, you just need [Homebrew](https://brew.sh/) installed.
+
 >Install Homebrew
 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
