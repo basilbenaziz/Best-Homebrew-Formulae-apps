@@ -1,6 +1,17 @@
 Best Homebrew Formulae
 ===============================
 
+[Install Homebrew](#Install-Homebrew!)
+
+[How do I install these formulae?](#How-do-I-install-these-formulae?)
+
+1. [**speedtest-cli**](#**1--speedtest-cli**)
+
+2. [**tree**](#**2--tree**)
+
+
+
+------------------------------------------------
 _“To install, drag this icon…” no more!_
 
 Homebrew Cask extends [Homebrew](https://brew.sh) and brings its elegance, simplicity, and speed to the installation and management of GUI macOS applications such as Atom and Google Chrome.
@@ -9,8 +20,8 @@ We do this by providing a friendly CLI workflow for the administration of macOS 
 
 ----------------------------------------------------------------
 
-Install Homebrew!
---------------------------------
+# Install Homebrew!
+
 
 To start using Homebrew Formulae, you just need [Homebrew](https://brew.sh/) installed.
 >Install Homebrew
@@ -25,8 +36,8 @@ To start using Homebrew Formulae, you just need [Homebrew](https://brew.sh/) ins
 
 ----------------------------------------------------------------
 
-How do I install these formulae?
---------------------------------
+# How do I install these formulae?
+
 Just run `brew install <formula>`.
 
 If the formula conflicts with one from mxcl/master or another tap, you can `brew install homebrew/science/<formula>`.
@@ -38,8 +49,8 @@ You can also install via URL:
 ------------------------------------------------------------
 ------------------------------------------------------------
 
-**1- speedtest-cli**
---------------------
+# **1- speedtest-cli**
+
 ### Description:
 Command line interface for testing internet bandwidth using speedtest.net.
 >installation
