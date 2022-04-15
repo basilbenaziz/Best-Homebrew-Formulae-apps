@@ -1,24 +1,28 @@
 Best Homebrew Formulae
 ===============================
 
-[Install Homebrew](#Install-Homebrew!)
+>[Install Homebrew](#install-homebrew)
+>
+>[How do I install these formulae?](#how-do-i-install-these-formulae)
+>
+>>Best Homebrew Formulae:
+>>1. [**speedtest-cli**](#1--speedtest-cli)
+>>2. [**tree**](#2--tree)
 
-[How do I install these formulae?](#How-do-I-install-these-formulae?)
 
-1. [**speedtest-cli**](#**1--speedtest-cli**)
 
-2. [**tree**](#**2--tree**)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
-------------------------------------------------
 _“To install, drag this icon…” no more!_
 
 Homebrew Cask extends [Homebrew](https://brew.sh) and brings its elegance, simplicity, and speed to the installation and management of GUI macOS applications such as Atom and Google Chrome.
 
 We do this by providing a friendly CLI workflow for the administration of macOS applications distributed as binaries.
 
-----------------------------------------------------------------
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Install Homebrew!
 
@@ -34,7 +38,10 @@ To start using Homebrew Formulae, you just need [Homebrew](https://brew.sh/) ins
 
 [wiki]:http://wiki.github.com/mxcl/homebrew 
 
-----------------------------------------------------------------
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # How do I install these formulae?
 
@@ -46,8 +53,16 @@ You can also install via URL:
 
     brew install https://raw.github.com/Homebrew/homebrew-science/master/<formula>.rb
 
-------------------------------------------------------------
-------------------------------------------------------------
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
 
 # **1- speedtest-cli**
 
@@ -74,8 +89,18 @@ usage:
                         --json or --csv
 and more
 ```
---------------------------------------------------------------
---------------------------------------------------------------
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
 
 **2- tree**
 --------------------
@@ -125,6 +150,11 @@ If the `ls` option is given and the symbolic link refers to an actual directory,
 27 directories
 ```
 
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
