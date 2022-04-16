@@ -8,6 +8,8 @@ Best Homebrew Formulae
 >>Best Homebrew Formulae:
 >>1. [**speedtest-cli**](#1--speedtest-cli)
 >>2. [**tree**](#2--tree)
+>>3. [**archey**](#3--archey)
+>>4. [**tldr**](#4--tldr)
 
 
 
@@ -68,7 +70,8 @@ You can also install via URL:
 
 
 
-# **1- speedtest-cli**
+**1- speedtest-cli**
+--------------------
 
 ### Description:
 Command line interface for testing internet bandwidth using speedtest.net.
@@ -162,5 +165,112 @@ If the `ls` option is given and the symbolic link refers to an actual directory,
 
 
 
+
+**3- archey**
+---------------
+### Description:
+Graphical system information display for macOS
+>installation
+
+    brew install archey
+
+
+* Run the command
+  ```
+  archey [options]
+
+  -p --packager  Use auto detected package system (default packager: none).
+  -m --macports  Force use MacPorts as package system.
+  -b --nocolor   Turn color off.
+  -c --color     Force the color on (overrides --nocolor).
+  -o --offline   Disable the IP address check.
+  ```
+* Here is an example of the output of archey:
+```
+
+                 ###                  User: jhann
+               ####                   Hostname: obihann
+               ###                    Distro: OS X 10.10.5
+       #######    #######             Kernel: Darwin
+     ######################           Uptime:  6:11
+    #####################             Shell: /bin/zsh
+    ####################              Terminal: xterm-256color iTerm.app
+    ####################              Packages: 114
+    #####################             CPU: Intel Core i5-3210M CPU @ 2.50GHz
+     ######################           Memory: 8 GB
+      ####################            Disk: 95%
+        ################              Battery: 100.00%
+         ####     #####               IP Address: 24.222.18.26
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+**4- tldr**
+-----------
+### Description:
+The tldr pages are a community effort to simplify the beloved man pages with practical examples.
+
+>installation
+
+    brew install tldr
+
+* Run the command
+`tldr [SEARCH]`
+```
+tldr [OPTION]... SEARCH
+
+available commands:
+    -v                   print verbose output
+    --version            print version and exit
+    -h, --help           print this help and exit
+    -u, --update         update local database
+    -c, --clear-cache    clear local database
+    -l, --list           list all entries in the local databse
+    -p, --platform=PLATFORM select platform, supported are linux / osx / sunos / windows / common
+    --linux              show command page for Linux
+    --osx                show command page for OSX
+    --sunos              show command page for SunOS
+    -r, --render=PATH    render a local page for testing purposes
+```
+* Here is an example of the output of archey:
+```
+❯ tldr brew
+
+brew
+
+Package manager for macOS and Linux.
+More information: <https://brew.sh>.
+
+- Install the latest stable version of a formula or cask (use `--devel` for development versions):
+    brew install formula
+
+- List all installed formulae and casks:
+    brew list
+
+- Upgrade an installed formula or cask (if none is given, all installed formulae/casks are upgraded):
+    brew upgrade formula
+
+- Fetch the newest version of Homebrew and of all formulae and casks from the Homebrew source repository:
+    brew update
+
+- Show formulae and casks that have a more recent version available:
+    brew outdated
+
+- Search for available formulae (i.e. packages) and casks (i.e. native packages):
+    brew search text
+
+- Display information about a formula or a cask (version, installation path, dependencies, etc.):
+    brew info formula
+
+- Check the local Homebrew installation for potential problems:
+    brew doctor
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+.
 
 I will add more soon :)
