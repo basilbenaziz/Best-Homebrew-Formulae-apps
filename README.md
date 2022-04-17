@@ -312,52 +312,7 @@ downloader that scrapes the downloade from any web videos or pictures
 | Bandcamp    | <http://bandcamp.com/>        | | |✓|
 | AliveThai   | <http://alive.in.th/>         |✓| | |
 | interest.me | <http://ch.interest.me/tvn>   |✓| | |
-| **755<br/>ナナゴーゴー** | <http://7gogo.jp/> |✓|✓| |
-| **niconico<br/>ニコニコ動画** | <http://www.nicovideo.jp/> |✓| | |
-| **163<br/>网易视频<br/>网易云音乐** | <http://v.163.com/><br/><http://music.163.com/> |✓| |✓|
-| 56网     | <http://www.56.com/>           |✓| | |
-| **AcFun** | <http://www.acfun.cn/>        |✓| | |
-| **Baidu<br/>百度贴吧** | <http://tieba.baidu.com/> |✓|✓| |
-| 爆米花网 | <http://www.baomihua.com/>     |✓| | |
-| **bilibili<br/>哔哩哔哩** | <http://www.bilibili.com/> |✓|✓|✓|
-| 豆瓣     | <http://www.douban.com/>       |✓| |✓|
-| 斗鱼     | <http://www.douyutv.com/>      |✓| | |
-| 凤凰视频 | <http://v.ifeng.com/>          |✓| | |
-| 风行网   | <http://www.fun.tv/>           |✓| | |
-| iQIYI<br/>爱奇艺 | <http://www.iqiyi.com/> |✓| | |
-| 激动网   | <http://www.joy.cn/>           |✓| | |
-| 酷6网    | <http://www.ku6.com/>          |✓| | |
-| 酷狗音乐 | <http://www.kugou.com/>        | | |✓|
-| 酷我音乐 | <http://www.kuwo.cn/>          | | |✓|
-| 乐视网   | <http://www.le.com/>           |✓| | |
-| 荔枝FM   | <http://www.lizhi.fm/>         | | |✓|
-| 懒人听书 | <http://www.lrts.me/>          | | |✓|
-| 秒拍     | <http://www.miaopai.com/>      |✓| | |
-| MioMio弹幕网 | <http://www.miomio.tv/>    |✓| | |
-| MissEvan<br/>猫耳FM | <http://www.missevan.com/> | | |✓|
-| 痞客邦   | <https://www.pixnet.net/>      |✓| | |
-| PPTV聚力 | <http://www.pptv.com/>         |✓| | |
-| 齐鲁网   | <http://v.iqilu.com/>          |✓| | |
-| QQ<br/>腾讯视频 | <http://v.qq.com/>      |✓| | |
-| 企鹅直播 | <http://live.qq.com/>          |✓| | |
-| Sina<br/>新浪视频<br/>微博秒拍视频 | <http://video.sina.com.cn/><br/><http://video.weibo.com/> |✓| | |
-| Sohu<br/>搜狐视频 | <http://tv.sohu.com/> |✓| | |
-| **Tudou<br/>土豆** | <http://www.tudou.com/> |✓| | |
-| 阳光卫视 | <http://www.isuntv.com/>       |✓| | |
-| **Youku<br/>优酷** | <http://www.youku.com/> |✓| | |
-| 战旗TV   | <http://www.zhanqi.tv/lives>   |✓| | |
-| 央视网   | <http://www.cntv.cn/>          |✓| | |
-| Naver<br/>네이버 | <http://tvcast.naver.com/>     |✓| | |
-| 芒果TV   | <http://www.mgtv.com/>         |✓| | |
-| 火猫TV   | <http://www.huomao.com/>       |✓| | |
-| 阳光宽频网 | <http://www.365yg.com/>      |✓| | |
-| 西瓜视频 | <https://www.ixigua.com/>      |✓| | |
-| 新片场 | <https://www.xinpianchang.com/>      |✓| | |
-| 快手 | <https://www.kuaishou.com/>      |✓|✓| |
-| 抖音 | <https://www.douyin.com/>      |✓| | |
 | TikTok | <https://www.tiktok.com/>      |✓| | |
-| 中国体育(TV) | <http://v.zhibo.tv/> </br><http://video.zhibo.tv/>    |✓| | |
-| 知乎 | <https://www.zhihu.com/>      |✓| | |
 
 For all other sites not on the list, the universal extractor will take care of finding and downloading interesting resources from the page.
 
