@@ -10,7 +10,7 @@ Best Homebrew Formulae and Apps
 >>2. [**tree**](#2--tree)
 >>3. [**archey**](#3--archey)
 >>4. [**tldr**](#4--tldr)
->>5. [**you-get**](#4--you-get)
+>>5. [**you-get**](#5--you-get)
 
 
 
@@ -272,7 +272,7 @@ More information: <https://brew.sh>.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**4- you-get**
+**5- you-get**
 -----------
 ### Description:
 downloader that scrapes the downloade from any web videos or pictures
